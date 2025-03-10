@@ -88,9 +88,9 @@ The Bangladesh Suraksha Netra (Protective Eye) system aims to implement an AI-po
 
 | Deliverable | Description | Status |
 |-------------|-------------|--------|
-| **AI Detection Model** | Optimized model with multi-class violence detection | ⬜ Complete |
-| **Edge Deployment Package** | Containerized solution for on-premise deployment | ⬜ Complete |
-| **Central Monitoring System** | Dashboard with alert management and analytics | ⬜ Complete |
+| **AI Detection Model** | Optimized model with multi-class violence detection | ⬜ Pending |
+| **Edge Deployment Package** | Containerized solution for on-premise deployment | ⬜ Pending |
+| **Central Monitoring System** | Dashboard with alert management and analytics | ⬜ Pending|
 | **API Documentation** | Comprehensive API documentation with examples | ⬜ Pending |
 | **Training Materials** | User manuals and training videos | ⬜ Pending |
 
@@ -100,11 +100,11 @@ The Bangladesh Suraksha Netra (Protective Eye) system aims to implement an AI-po
 
 | Metric | Target | Current Status |
 |--------|--------|---------------|
-| **Model Accuracy** | ≥ 90% | 87% ⚠️ |
-| **Processing Latency** | ≤ 500ms | 450ms ⬜ |
-| **False Positive Rate** | ≤ 3% | 4.2% ⚠️ |
-| **System Uptime** | 99.9% | 99.5% ⚠️ |
-| **Scalability** | Support for 1000+ cameras | Tested with 750 ⚠️ |
+| **Model Accuracy** | ≥ 90% | ⚠️ |
+| **Processing Latency** | ≤ 500ms |⬜ |
+| **False Positive Rate** | ≤ 3% | ⚠️ |
+| **System Uptime** | 99.9% | ⚠️ |
+| **Scalability** | Support for 1000+ cameras | ⚠️ |
 
 ---
 
@@ -112,16 +112,16 @@ The Bangladesh Suraksha Netra (Protective Eye) system aims to implement an AI-po
 
 | Risk | Mitigation Strategy | Status |
 |------|---------------------|--------|
-| **Data Privacy Concerns** | Implement real-time anonymization | ⬜ Implemented |
-| **Model Bias** | Diverse dataset curation and fairness metrics | ⬜ Addressed |
+| **Data Privacy Concerns** | Implement real-time anonymization | ⬜ Incomplete |
+| **Model Bias** | Diverse dataset curation and fairness metrics | ⬜ Incomplete|
 | **Infrastructure Failure** | Redundant systems with automatic failover | ⬜ In Progress |
-| **Integration Challenges** | Standardized API contracts and adapters | ⬜ Implemented |
+| **Integration Challenges** | Standardized API contracts and adapters | ⬜ Incomplete |
 
 ---
 
 ### 🔰 **Project Governance**
 - Weekly progress reviews every Friday
-- Bi-weekly stakeholder updates
+- Bi-weekly stakeholder updates[if any one want to buy]
 - Continuous quality assurance with automated testing
 - Ethics committee oversight for responsible AI deployment
 
@@ -131,13 +131,13 @@ The Bangladesh Suraksha Netra (Protective Eye) system aims to implement an AI-po
 
 | | | | |
 |:---:|:---:|:---:|:---:|
-| ![](https://avatars.githubusercontent.com/u/107450069?v=4) | ![](https://avatars.githubusercontent.com/u/129685512?v=4) | ![]() | ![](https://avatars.githubusercontent.com/u/159527403?v=4) |
+| ![](https://avatars.githubusercontent.com/u/107450069?v=4) | ![](https://avatars.githubusercontent.com/u/129685512?v=4) | ![](https://github.com/swadhinbiswas/Bangladesh-Suraksha-Netra/blob/main/assets/imran.png?raw=true) | ![](https://avatars.githubusercontent.com/u/159527403?v=4) |
 | **Swadhin Biswas** | **Naimul Islam** | **Md. Imran** | **Md. Tuhin sheikh** |
 | *222-15-6259* | *222-15-6299* | *222-15-6500* | *222-15-6288* |
 | | | | |
-| ![](https://api.placeholder.com/80) | ![](https://api.placeholder.com/80) | ![](https://api.placeholder.com/80) | ![](https://api.placeholder.com/80) |
-| **Min-ho Park** | **Priya Singh** | **David Chen** | **Aisha Begum** |
-| *Computer Vision* |
+| ![](https://github.com/swadhinbiswas/Bangladesh-Suraksha-Netra/blob/main/assets/nayok.png?raw=true) |
+| **Minhajul Islam Rana Khan** |
+| *222-15-6316* |
 
 ---
 
