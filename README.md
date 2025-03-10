@@ -127,4 +127,18 @@ The Bangladesh Suraksha Netra (Protective Eye) system aims to implement an AI-po
 
 ---
 
+## **Project Contributors** 👥
+
+| | | | |
+|:---:|:---:|:---:|:---:|
+| ![](https://avatars.githubusercontent.com/u/107450069?v=4) | ![](https://avatars.githubusercontent.com/u/129685512?v=4) | ![]() | ![](https://avatars.githubusercontent.com/u/159527403?v=4) |
+| **Swadhin Biswas** | **Naimul Islam** | **Md. Imran** | **Md. Tuhin sheikh** |
+| *222-15-6259* | *222-15-6299* | *222-15-6500* | *222-15-6288* |
+| | | | |
+| ![](https://api.placeholder.com/80) | ![](https://api.placeholder.com/80) | ![](https://api.placeholder.com/80) | ![](https://api.placeholder.com/80) |
+| **Min-ho Park** | **Priya Singh** | **David Chen** | **Aisha Begum** |
+| *Computer Vision* |
+
+---
+
 ## 🇧🇩 *Safeguarding Bangladesh with Intelligent Surveillance Technologies*
