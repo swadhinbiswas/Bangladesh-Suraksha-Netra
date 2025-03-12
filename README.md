@@ -11,8 +11,8 @@ The Bangladesh Suraksha Netra (Protective Eye) system aims to implement an AI-po
 ## **Week 1: Foundation & Research** 🔍
 
 ### **📋 Step 1: Project Initiation (Day 1-2)**
-- ⬜ Define project scope, objectives, and key performance indicators
-- ⬜ Establish cross-functional team structure and responsibility matrix
+- ✅ Define project scope, objectives, and key performance indicators
+- ✅ Establish cross-functional team structure and responsibility matrix
 - ⬜ Configure project management system with automated reporting
 <!-- - ⬜ Conduct stakeholder analysis and develop communication plan -->
 
