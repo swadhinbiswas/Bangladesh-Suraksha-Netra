@@ -1,21 +1,49 @@
-MIT License
+Bangladesh Surokkha Netra Non-Commercial Open Source License
 
-Copyright (c) 2025 Swadhin Biswas
+Preamble
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This license governs the use of the software known as "Bangladesh Surokkha Netra" (https://github.com/swadhinbiswas/Bangladesh-Suraksha-Netra), developed by Swadhin Biswas (hereinafter "Licensor"). The Licensor intends to share the Software with the community for non-commercial purposes, fostering collaboration and advancement in the field. By using, copying, modifying, or distributing the Software, you (hereinafter "the Licensee") agree to abide by the terms and conditions outlined in this license.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. Grant of License
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+   The Licensor grants to the Licensee a royalty-free, non-exclusive, non-transferable, and worldwide license to:
+
+   a. Use the Software for non-commercial purposes only.
+   b. Reproduce and distribute copies of the Software, provided that all copies include this license and any copyright notices.
+   c. Modify the Software, provided that any modifications are clearly marked and that the modified Software is distributed under the same terms as this license.
+
+2. Restrictions
+
+   a. Commercial Use Prohibited: The Licensee is expressly prohibited from using the Software, or any modified version thereof, for any commercial or business purpose. This includes, but is not limited to:
+      i. Selling, leasing, or licensing the Software.
+      ii. Providing services based on the Software for a fee.
+      iii. Using the Software to generate revenue, directly or indirectly.
+      iv. Using the Software in conjunction with any commercial product or service.
+   b. Attribution: The Licensee must retain all copyright notices and attribution to the Licensor in any copies or modifications of the Software.
+   c. No Warranty: The Software is provided "as is," without any warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement. The Licensor shall not be liable for any damages arising from the use of the Software.
+
+3. Definitions
+
+   a. "Non-Commercial Purpose" means any use of the Software that is not intended for or directed towards commercial advantage or monetary compensation. This includes, but is not limited to, educational, research, and personal use.
+   b. "Commercial Use" means any use of the Software that is intended for or directed towards commercial advantage or monetary compensation. This includes, but is not limited to, the activities outlined in Section 2(a).
+
+4. Modifications and Distribution
+
+   a. Any modifications to the Software must be clearly marked as such.
+   b. The Licensee must distribute any modified versions of the Software under the same terms as this license.
+   c. The Licensee must include a copy of this license with any distribution of the Software or any modified version thereof.
+
+5. Termination
+
+   This license will terminate automatically if the Licensee violates any of its terms. Upon termination, the Licensee must cease all use, copying, and distribution of the Software.
+
+6. Governing Law
+
+   This license shall be governed by and construed in accordance with the laws of Bangladesh.
+
+7. Contact
+
+   For any questions or clarifications regarding this license, please contact:
+   swadhin.biswas.cse@gmail.com
+
+Copyright (c) 2024 Swadhin Biswas. All rights reserved.
