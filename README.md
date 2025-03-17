@@ -10,19 +10,19 @@ The Bangladesh Suraksha Netra (Protective Eye) system aims to implement an AI-po
 
 ## **Week 1: Foundation & Research** 🔍
 
-### **📋 Step 1: Project Initiation (Day 1-2)**
+### **📋 Step 1: Project Initiation**
 - ✅ Define project scope, objectives, and key performance indicators
 - ✅ Establish cross-functional team structure and responsibility matrix
 - ⬜ Configure project management system with automated reporting
 <!-- - ⬜ Conduct stakeholder analysis and develop communication plan -->
 
-### **🔬 Step 2: Technical Research (Day 3-5)**
+### **🔬 Step 2: Technical Research**
 - ⬜ Benchmark existing violence detection systems and algorithms
 - ⬜ Analyze violence classification taxonomies and detection challenges
 - ⬜ Evaluate transfer learning opportunities from existing models
 - ⬜ Create technical specification document with decision matrix
 
-### **🛠️ Step 3: Infrastructure Setup (Day 6-7)**
+### **🛠️ Step 3: Infrastructure Setup**
 - ⬜ Configure containerized development environment with Docker
 - ⬜ Establish GPU-accelerated cloud computing infrastructure (AWS/GCP)
 - ⬜ Implement CI/CD pipeline for model development
@@ -32,13 +32,13 @@ The Bangladesh Suraksha Netra (Protective Eye) system aims to implement an AI-po
 
 ## **Week 2: Data Engineering & Model Foundation** 📊
 
-### **📚 Step 4: Data Acquisition & Processing (Day 8-10)**
+### **📚 Step 4: Data Acquisition & Processing**
 - ⬜ Curate balanced dataset with diverse violence scenarios
 - ⬜ Implement data anonymization pipeline for privacy compliance
 - ⬜ Develop augmentation strategy to address class imbalance
 - ⬜ Create metadata tagging system for environmental contexts
 
-### **🧠 Step 5: Model Architecture & Training (Day 11-14)**
+### **🧠 Step 5: Model Architecture & Training**
 - ⬜ Implement hybrid CNN-LSTM architecture for spatiotemporal analysis
 - ⬜ Develop attention mechanisms for focal point identification
 - ⬜ Train initial model with stratified k-fold cross-validation
@@ -48,13 +48,13 @@ The Bangladesh Suraksha Netra (Protective Eye) system aims to implement an AI-po
 
 ## **Week 3: Optimization & Integration** ⚙️
 
-### **💡 Step 6: Model Refinement (Day 15-17)**
+### **💡 Step 6: Model Refinement**
 - ⬜ Implement quantization and pruning for edge deployment
 - ⬜ Optimize for real-time inference with TensorRT acceleration
 - ⬜ Apply Bayesian hyperparameter optimization
 - ⬜ Develop ensemble approach to minimize false positives
 
-### **🔄 Step 7: System Integration (Day 18-19)**
+### **🔄 Step 7: System Integration**
 - ⬜ Develop RESTful and gRPC APIs for system interaction
 - ⬜ Implement message queue architecture for scalable processing
 - ⬜ Create microservice for alert prioritization and routing
@@ -64,19 +64,19 @@ The Bangladesh Suraksha Netra (Protective Eye) system aims to implement an AI-po
 
 ## **Week 4: Deployment & Quality Assurance** 🚀
 
-### **🧪 Step 8: Testing & Validation (Day 20-22)**
+### **🧪 Step 8: Testing & Validation**
 - ⬜ Execute performance testing under varying conditions
 - ⬜ Conduct adversarial testing to identify weaknesses
 - ⬜ Perform load testing with simulated multi-camera feeds
 - ⬜ Validate system responses against predefined scenarios
 
-### **🔐 Step 9: Security & Deployment (Day 23-25)**
+### **🔐 Step 9: Security & Deployment**
 - ⬜ Implement end-to-end encryption for data transmission
 - ⬜ Configure role-based access control for system components
 - ⬜ Deploy with blue-green methodology to minimize downtime
 - ⬜ Implement automated system health monitoring
 
-### **📈 Step 10: Evaluation & Handover (Day 26-30)**
+### **📈 Step 10: Evaluation & Handover**
 - ⬜ Conduct comprehensive system evaluation with stakeholders
 - ⬜ Deliver technical documentation with architectural diagrams
 - ⬜ Provide training workshops for system operators
